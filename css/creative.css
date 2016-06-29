@@ -110,6 +110,10 @@ aside {
   }
   .navbar-default .navbar-header .navbar-brand {
     color: rgba(255, 255, 255, 0.7);
+    background: URL('../img/mtk-logo-line-white.png') no-repeat center;
+    background-size: 266px 50px;
+    width: 266px;
+    height: 50px;
   }
   .navbar-default .navbar-header .navbar-brand:hover,
   .navbar-default .navbar-header .navbar-brand:focus {
@@ -130,6 +134,8 @@ aside {
   .navbar-default.affix .navbar-header .navbar-brand {
     color: #F5A623;
     font-size: 14px;
+    background: URL('../img/mtk-logo-line-black.png') no-repeat left;
+    background-size: 213px 40px;
   }
   .navbar-default.affix .navbar-header .navbar-brand:hover,
   .navbar-default.affix .navbar-header .navbar-brand:focus {
